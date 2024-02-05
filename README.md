@@ -1,0 +1,1 @@
+# template-cqrs-pattern
